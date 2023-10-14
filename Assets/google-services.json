@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95480472059",
+    "project_id": "charkhakhadi-8c8ec",
+    "storage_bucket": "charkhakhadi-8c8ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95480472059:android:bdb98e32cb2c992ee86b5e",
+        "android_client_info": {
+          "package_name": "com.Imercfy.CharkhaKhadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrltg3Z9C2055NzbgwMMbDzxRw7kWzFOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
